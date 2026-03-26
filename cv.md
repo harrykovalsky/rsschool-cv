@@ -6,8 +6,9 @@
 ___
 
 ### Contact information:
-**E-mail:** harrykovalsky95@gmail.com
-**Telegram:** @harrykovalsky
+**E-mail:** [harrykovalsky95@gmail.com](mailto:harrykovalsky95@gmail.com "Text me to E-mail")
+
+**Telegram:** [@harrykovalsky](http://t.me/harrykovalsky "Text me to Telegram")
 
 ___
 
